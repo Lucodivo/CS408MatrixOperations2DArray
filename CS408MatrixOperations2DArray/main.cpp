@@ -6,7 +6,7 @@ void printTwoMatrices(double m1[NUM_ROWS][NUM_COLS], double m2[NUM_ROWS][NUM_COL
 void printResults(double m1[NUM_ROWS][NUM_COLS], double m2[NUM_ROWS][NUM_COLS], double m3[NUM_ROWS][NUM_COLS]);
 
 /**
- * @brief	Performs 2D array matrix operations and displays their results (commented
+ * @brief   Performs 2D array matrix operations and displays their results
  *          (commented out macros can be substituted for the function calls)
  * @author	Connor A. Haskins
  * @date	11/11/2016
