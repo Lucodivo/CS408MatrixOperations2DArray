@@ -63,7 +63,6 @@ int main() {
 /**
  * @brief   Display the user's options
  */
-
 void printCommands() {
     std::cout << "(1) M3 = M1 + M2 \n";
     std::cout << "(2) M4 = M1 - M2 \n";
@@ -75,7 +74,6 @@ void printCommands() {
 
 /**
  * @brief   Print two matrices.
- *
  * @param   m1[NUM_ROWS][NUM_COLS]
  * @param   m2[NUM_ROWS][NUM_COLS]
  */
@@ -90,7 +88,6 @@ void printTwoMatrices(double m1[NUM_ROWS][NUM_COLS], double m2[NUM_ROWS][NUM_COL
 
 /**
 * @brief   Print two matrices and their result matrix.
-*
 * @param   m1[NUM_ROWS][NUM_COLS]
 * @param   m2[NUM_ROWS][NUM_COLS]
 * @param   m3[NUM_ROWS][NUM_COLS]

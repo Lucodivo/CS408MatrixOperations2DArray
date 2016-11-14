@@ -40,7 +40,7 @@ void multMat(double X[NUM_ROWS][NUM_COLS], double Y[NUM_ROWS][NUM_COLS], double 
     for (int i = 0; i < NUM_ROWS; i++) {
         for (int j = 0; j < NUM_COLS; j++) {
             Z[i][j] = 0;
-            for (int k = 0; k < NUM_COLS; k++) {
+            for (int k = 0; k < NUM_ROWS; k++) {
                 Z[i][j] += X[i][k] * Y[k][j];
             }
         }

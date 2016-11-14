@@ -1,0 +1,9 @@
+.vs/
+CS408MatrixOperations2DArray.VC.db
+CS408MatrixOperations2DArray.sln
+CS408MatrixOperations2DArray/CS408MatrixOperations2DArray.vcxproj
+CS408MatrixOperations2DArray/CS408MatrixOperations2DArray.vcxproj.filters
+CS408MatrixOperations2DArray/Debug/
+Debug/
+doxygen.config
+doxygen/
